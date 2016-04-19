@@ -20,6 +20,7 @@
     NSLog(@"1111");
     NSLog(@"3333");
     NSLog(@"44444");
+    NSLog(@"分支修改了代码!~");
 }
 
 - (void)didReceiveMemoryWarning {
